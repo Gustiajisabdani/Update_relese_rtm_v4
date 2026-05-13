@@ -1,6 +1,6 @@
 {
-  "latest_version": "4.0.1",
-  "download_url": "https://github.com/Gustiajisabdani/Update_relese_rtm_v4/releases/download/v4.0.1/RTM_PRO_v4.0.01.exe",
-  "release_notes": "FIX BUG.",
+  "latest_version": "4.0.3",
+  "download_url": "https://github.com/Gustiajisabdani/Update_relese_rtm_v4/releases/download/4.0.3/RTM_PRO_v4.0.3.exe",
+  "release_notes": "FIX BUG (fix crash).",
   "is_mandatory": false
 }
