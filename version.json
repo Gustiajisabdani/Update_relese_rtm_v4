@@ -1,6 +1,6 @@
 {
-  "latest_version": "4.0.3",
-  "download_url": "https://github.com/Gustiajisabdani/Update_relese_rtm_v4/releases/download/4.0.3/RTM_PRO_v4.0.3.exe",
-  "release_notes": "FIX LEMOT",
+  "latest_version": "4.0.4",
+  "download_url": "https://github.com/Gustiajisabdani/Update_relese_rtm_v4/releases/download/v4.0.4/RTM_PRO_v4.0.4.exe",
+  "release_notes": "1. Penambahan tema Custom, 2. penambahan beberapa fitur canvas, 3. penambahan tombol cetak di filelist",
   "is_mandatory": false
 }
