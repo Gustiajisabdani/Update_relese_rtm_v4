@@ -1,6 +1,6 @@
 {
-  "latest_version": "4.0.7",
-  "download_url": "https://github.com/Gustiajisabdani/Update_relese_rtm_v4/releases/download/v.4.0.7/RTM_PRO_4.0.7.exe",
-  "release_notes": "perbaikan error pada pengelola printer, dan perubahan auto save pada canvas",
+  "latest_version": "4.0.8",
+  "download_url": "https://github.com/Gustiajisabdani/Update_relese_rtm_v4/releases/download/v.4.0.8/RTM_PRO_4.0.8.exe",
+  "release_notes": "Pembaruan notifikasi pada antrean cetak, dan UI",
   "is_mandatory": false
 }
